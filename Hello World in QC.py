@@ -156,8 +156,5 @@ from qiskit.tools.monitor import job_monitor
 job_monitor(job)
 
 
-# In[ ]:
-
-
 
 
